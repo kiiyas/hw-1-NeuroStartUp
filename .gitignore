@@ -1,0 +1,8 @@
+# ignore Thumbs.db, .DS_Store
+Thumbs.db
+.DS_Store
+
+# ignore old and temp files
+*_old
+*_backup
+/tmp
